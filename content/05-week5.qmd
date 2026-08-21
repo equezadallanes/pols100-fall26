@@ -1,0 +1,30 @@
+---
+title: "Week 5: Civil Liberties and Civil Rights"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 5 - Civil Liberties and Civil Rights
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+
+### Wednesday, September 23
+
+- *Logic of American Politics,* Chapter 5. {{< fa book >}}
+
+- Hassan, Adeel. 2026. "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk." *The New York Times,* August 21. [{{< fa newspaper >}}](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+
+
+
+### Friday, September 25
+
+- *Logic of American Politics,* Chapter 4. {{< fa book >}}
+
+- (skim:) Mazumder, Soumyajit. 2018. "The Persistent Effect of US Civil Rights Protests on Political Attitudes." *American Journal of Political Science* 62(4): 922-935. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+

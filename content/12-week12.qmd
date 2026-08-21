@@ -1,0 +1,30 @@
+---
+title: "Week 12: Public Opinion, Elections, and Campaigns"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 12 - Public Opinion, Elections, and Campaigns
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+### Wednesday, November 11
+
+- *Logic of American Politics,* Chapter 10. {{< fa book >}}
+
+- (skim:) Dynes, Adam M., and John B. Holbein. 2020. "Noisy Retrospection: The Effect of Party Control on Policy Outcomes." *American Political Science Review* 114(1): 237-257. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+### Friday, November 13
+
+- *Logic of American Politics,* Chapter 11. {{< fa book >}}
+
+- Gerber, Alan S., Donald P. Green, and Christopher W. Larimer.  "Social Pressure and Voter Turnout: Evidence from a Large-Scale Field Experiment." *American Political Science Review* 102(1): 33-48. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+ 

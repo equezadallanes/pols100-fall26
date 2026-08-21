@@ -1,0 +1,35 @@
+---
+title: "Week 3: State of American Democracy and the Declaration of Independence"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 3 - Making a Constitution
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Wednesday, September 9
+
+- *Tyranny of the Minority,* chapters 5 and 6. {{< fa book >}}
+
+
+
+### Friday, September 11
+
+- The Declaration of Independence. [{{< fa link >}}](https://www.archives.gov/founding-docs/declaration-transcript)
+
+- Williams, Yohuru. 2020. "Why Thomas Jefferson's Anti-Slavery Passage Was Removed from the Declaration of Independence". [{{< fa link >}}](https://www.history.com/articles/declaration-of-independence-deleted-anti-slavery-clause-jefferson)
+
+- NPR. 2020. "'What To The Slave Is The Fourth Of July?': Descendants Read Frederick Douglass' Speech." [{{< fa youtube >}}](https://www.youtube.com/watch?v=NBe5qbnkqoM)
+
+- *Logic of American Politics,* Chapter 2: sections 2.1. and 2.2. {{< fa book >}}
+
+
+
+
+

@@ -1,0 +1,48 @@
+---
+title: "Report of Campus Event"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POLS 100 - Principles of American Government \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+
+Due a week after the event. Submit on Canvas.
+
+:::
+
+## Purpose
+
+This assignment will help you get involved in the academic life of the college and apply course material to disucssion taking place beyond the classroom.
+
+
+## Task
+
+You will write a short report (1-2 double-spaced pages, 12-point font) with a reflection to a campus event. This report must briefly summarize the content of the event and then provide a reflection that connects the event to the topics of our course. Here are the three events that you can choose from:
+
+  1. Revolutionary America: Religion, Morality, and the Problem of Governance (Wednesday, September 16, at 4:30 pm in the Rehm Library)
+  2. Constitution Day lecture  (Thursday, September 17, at 4:30 pm, Room TBD)
+  3. The American Revolution and the Case for Redemption (Thursday, November 5, at 4:30 pm in the Rehm Library)
+    
+
+## Criteria for Success
+
+A successful essay will:
+
+1. Briefly summarize the main ideas from the event
+2. Provide a critique of the main ideas (e.g., do you agree or disagree? why?)
+3. Connect a concept from class to the substance of the event
+4. Have a coherent structure and no grammar errors
+
+
+

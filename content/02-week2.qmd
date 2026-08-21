@@ -1,0 +1,26 @@
+---
+title: "Week 2: The State of American Democracy"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 2 - The State of American Democracy
+
+:::
+
+
+### Wednesday, September 2
+
+- Levitsky, Steven, and Daniel Ziblatt. 2018. "How Wobbly Is Our Democracy?" *The New York Times.* [{{< fa newspaper >}}](https://www.nytimes.com/2018/01/27/opinion/sunday/democracy-polarization.html)
+
+  - As a Holy Cross student, you have acces to *The New York Times*. In you haven't done so, please sign up for an account via Ignite (it should appear under "Apps")
+
+- *Tyranny of the Minority,* chapters 1 and 2. {{< fa book >}}
+
+ 
+### Friday, September 4 - No in-person meeting
+
+- See Canvas for an activity in lieu of class
+
+
+

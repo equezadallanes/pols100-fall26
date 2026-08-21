@@ -1,0 +1,30 @@
+---
+title: "Week 1: Introduction and Problems of Collective Action"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 1 - Introduction and Problems of Collective Action
+
+:::
+
+During the first week, we will discuss the syllabus and talk about what it means for political science (or any social science, for that matter) to be a *science*.
+
+### Wednesday, August 26
+
+- [Syllabus](../index.qmd)
+
+- Schulman, Jonathan, and Richard Wike. 2026. "Multiple indicators show a decline in the health of America’s democracy in 2025." Pew Research Center, April 15. [{{< fa link >}}](https://www.pewresearch.org/short-reads/2026/04/15/multiple-indicators-show-a-decline-in-the-health-of-americas-democracy-in-2025/)
+
+- Wondimu, Blen. 2026. "A majority of Americans say the country’s best years are behind us." Pew Research Center, May 15. [{{< fa link >}}](https://www.pewresearch.org/short-reads/2026/05/15/a-majority-of-americans-say-the-countrys-best-years-are-behind-us/)
+
+
+### Friday, August 28
+
+- *Logic of American Politics,* Chapter 1. {{< fa book >}}
+
+
+
+
+
+

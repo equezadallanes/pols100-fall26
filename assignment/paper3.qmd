@@ -1,0 +1,47 @@
+---
+title: "Response Paper 3 - Players"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 11pt
+      colorlinks: true
+      citecolor: DarkOrchid
+      linkcolor: DarkOrchid
+      urlcolor: DarkOrchid
+      geometry: margin=1in
+      subtitle: | 
+        | POLS 100 - Principles of American Government \vspace{1em}
+        | Professor Enrique Quezada-Llanes \vspace{-3em}
+---
+
+:::{.callout-important}
+
+Due Friday, December 4, at 11:59 pm on Canvas
+
+:::
+
+## Purpose
+
+This assignment will help you think about how different aspects of the American political system help (or hinder) the democratic process.
+
+
+## Task
+
+You will write a response paper (3 double-spaced pages, 12-point font) where you discuss how one of the **players** of the American political system contributes to the fragility or stability of American democracy. 
+
+In this paper, you should integrate the assigned readings for the topic of your choice. Further, the paper should focus on current events and may also offer a critique of existing research or propose new research questions. Make sure to strike a good balance between summarizing the readings and answering the overall question.
+
+
+
+## Criteria for Success
+
+A successful essay will:
+
+1. Briefly summarize the main concepts and ideas from the readings
+2. Have a clear thesis statement in the first paragraph
+3. Discuss how the players of the American political system we covered in class contribute to the stability or fragility of American democracy
+4. Have a coherent structure and no grammar errors
+
+
+

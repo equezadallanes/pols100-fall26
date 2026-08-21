@@ -1,0 +1,29 @@
+---
+title: "Week 13: Interest Groups and the Media"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 13 - Interest Groups and the Media
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Wednesday, November 18
+
+- *Logic of American Politics,* Chapter 13. {{< fa book >}}
+
+- Gilens, Martin, and Benjamin I. Page. 2014. "Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens." *Perspectives on Politics* 12(3): 564–81. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+
+### Friday, November 20
+
+- CrashCourse. "Media Institution: Crash Course Government and Politics #44." 2016. *CrashCourse* [video], January 16. [{{< fa brands youtube >}}](https://www.youtube.com/watch?v=6F0g4N415uw)
+
+- Darr, Joshua P, Matthew P Hitt, and Johanna L Dunaway. 2018. "Newspaper Closures Polarize Voting Behavior." *Journal of Communication* 68(6): 1007–28. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+

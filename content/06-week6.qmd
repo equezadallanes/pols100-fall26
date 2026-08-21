@@ -1,0 +1,34 @@
+---
+title: "Week 6: Congress"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 6 - Congress
+
+:::
+
+[//]: <> (Need to write intro. Add something about making tables and graphs)
+
+
+
+### Wednesday, September 30
+
+- *Logic of American Politics,* Chapter 6: sections 6.1-6.3. {{< fa book >}}
+
+- Mayhew, David R., 2004. *Congress: The Electoral Connection.* Yale University Press. Introduction and Chapter 1. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+
+### Friday, October 2
+
+- *Logic of American Politics,* Chapter 6: sections 6.4 to end. {{< fa book >}}
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Response Paper 1 due](../assignment/paper1.qmd) due Friday, October 2, at 11:59pm on Canvas
+
+:::
+

@@ -1,0 +1,32 @@
+---
+title: "Week 11: Political Parties"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 11 - Political Parties
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Wednesday, November 4
+
+- *Logic of American Politics,* Chapter 12. {{< fa book >}}
+
+
+### Friday, November 6
+
+- Election debrief (readings TBA)
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Response Paper 2 due](../assignment/paper2.qmd) due Friday, November 6, at 11:59pm on Canvas
+
+:::

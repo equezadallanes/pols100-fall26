@@ -1,0 +1,28 @@
+---
+title: "Week 9: Presidency"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 9 - Presidency
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+### Wednesday, October 21
+
+- William G. Howell. 2003. *Power without Persuasion: The Politics of Direct Presidential Action.* Princeton University Press. Chapter 1. {{< fa brands dropbox title="Available on Dropbox folder" >}}
+
+- *Logic of American Politics,* Chapter 7. {{< fa book >}}
+
+
+### Friday, October 23
+
+- Greenberg, Jack B. 2024. "The Case for Agency: Three Dimensions of Discretion in Presidential Agenda Construction." *Presidential Studies Quarterly* 54(3): 290–309. {{< fa file-pdf >}} available on Canvas.
+
+
+
+ 

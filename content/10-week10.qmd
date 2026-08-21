@@ -1,0 +1,27 @@
+---
+title: "Week 10: The Bureaucracy and Judiciary"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 10 - The Bureaucracy and Judiciary
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Wednesday, October 28
+
+- *Logic of American Politics,* Chapter 8. {{< fa book >}}
+
+
+### Friday, October 30
+
+- *Logic of American Politics,* Chapter 9. {{< fa book >}}
+
+- NPR. "'If You Can Keep It': The Future Of The Federal Judiciary." 2024. *NPR 1A* [podcast], December 16. [{{< fa podcast >}}](https://www.npr.org/2024/12/16/1219830870/1a-12-16-2024)
+
+

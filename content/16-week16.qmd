@@ -1,0 +1,17 @@
+---
+title: "Week 16: Final Exam"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 16 - Final Exam
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+Section 03: Saturday, December 12, 11:30 am - 2:00 pm
+
+Section 02: Monday, December 14, 11:30 am - 2:00 pm

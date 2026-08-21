@@ -1,0 +1,32 @@
+---
+title: "Week 4: The Constitution and Federalism"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 4 - Federalism
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+### Wednesday, September 16
+
+
+- *Logic of American Politics,* Chapter 2: sections 2.3 to end. {{< fa book >}}
+
+- Constitution of the United States. [{{< fa link >}}](https://www.archives.gov/founding-docs/constitution-transcript)
+
+- Federalist Papers #10, 51. [{{< fa link >}}](https://guides.loc.gov/federalist-papers/full-text)
+
+
+
+### Friday, September 18
+
+- *Logic of American Politics,* Chapter 3. {{< fa book >}}
+ 
+- Galston, William A. 2026. "Does President Trump have the authority to 'nationalize' voting?" Brookings Institution, February 11. [{{< fa link >}}](https://www.brookings.edu/articles/does-president-trump-have-the-authority-to-nationalize-voting/)
+
+

@@ -1,0 +1,37 @@
+---
+title: "Week 15: The Future of American Democracy"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 15 - The Future of American Democracy
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+
+
+### Wednesday, December 2
+
+- *Tyranny of the Minority,* chapters 7 and 8. {{< fa book >}}
+
+
+### Friday, December 4
+
+- TBA
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Response Paper 3 due](../assignment/paper3.qmd) due Friday, December 4, at 11:59pm on Canvas
+
+:::
+
+
+
+
+

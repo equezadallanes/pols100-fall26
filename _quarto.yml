@@ -1,0 +1,92 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "POLS 100: Principles of American Government"
+  site-url: "https://pols100.f26.equezadallanes.com/"
+  
+  navbar:
+    pinned: true
+    background: "#602D89"
+    right:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "Weekly Schedule"
+        file: content/index.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
+
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+            - assignment/report.qmd
+        - section: "Assignments"
+          contents:
+            - assignment/paper1.qmd
+            - assignment/paper2.qmd
+            - assignment/paper3.qmd
+            
+    - title: "Content"
+      contents:
+        - section: "Schedule"
+          contents:
+            - content/index.qmd
+        - section: "Introduction"
+          contents:
+            - content/01-week1.qmd
+            - content/02-week2.qmd
+            - content/03-week3.qmd
+        - section: "Part I - Foundations"
+          contents:
+            - content/03-week3.qmd
+            - content/04-week4.qmd
+            - content/05-week5.qmd
+        - section: "Part II - Institutions"
+          contents:
+            - content/06-week6.qmd
+            - content/07-week7.qmd
+            - content/09-week9.qmd
+            - content/10-week10.qmd
+        - section: "Part III - The Public"
+          contents:
+            - content/11-week11.qmd
+            - content/12-week12.qmd
+            - content/13-week13.qmd
+            - content/14-week14.qmd
+        - section: "Conclusion"
+          contents:
+            - content/15-week15.qmd
+            - content/16-week16.qmd
+    
+    - title: "Resources"
+      contents:
+        - section: "Overview"
+          contents:
+            - resource/index.qmd
+            - resource/reading.qmd
+            - resource/writing.qmd
+            - resource/citations.qmd
+            - resource/website.qmd
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    link-external-newwindow: true
+    highlight-style: monokai
+
+  
+resources: 
+  - CNAME

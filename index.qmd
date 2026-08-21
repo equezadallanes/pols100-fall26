@@ -1,0 +1,283 @@
+---
+title: "POLS 100: Principles of American Government"
+format:
+    html: default
+    pdf: 
+      documentclass: article
+      fontsize: 12pt
+      colorlinks: true
+      citecolor: DarkViolet
+      linkcolor: DarkViolet
+      urlcolor: DarkViolet
+      geometry: margin=1in
+      output-file: "POLS100_syllabus"
+---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(dplyr)
+library(tibble)
+library(pander)
+```
+
+::: {.content-visible when-format="pdf"}
+
+\begin{center}
+
+\vspace{-5em}
+
+\url{ {{< var course.url >}} } \vspace{-1ex}
+
+{{< var course.time1 >}} {{< var course.days >}} \vspace{-1ex}
+
+{{< var course.time2 >}} {{< var course.days >}} \vspace{-1ex}
+
+{{< var course.location >}} \vspace{-1ex}
+
+{{< var course.semester >}}
+
+\end{center}
+
+
+## Instructor
+
+{{< var instructor.name >}} \vspace{-1ex}
+
+Email: [{{< var instructor.email >}}](mailto:{{< var instructor.email >}}) \vspace{-1ex}
+
+Office: {{< var instructor.office >}} \vspace{-1ex}
+
+Office hours: [M 12:30-2:20 pm, W 3:30-5:30 pm, and (via Zoom) Th 1:00-3:00 pm]({{< var instructor.appointment_url >}}) and by appointment
+
+:::
+
+
+::: {.content-visible when-format="html"}
+
+::: {.grid .course-details .course-details-smaller}
+
+::: {.g-col-6}
+### Course details
+
+- {{< fa calendar >}} &nbsp; {{< var course.days >}}
+- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
+- {{< fa clock >}} &nbsp; {{< var course.time1 >}}
+- &nbsp; {{< var course.time2 >}}
+- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
+:::
+
+::: {.g-col-6}
+### Instructor
+
+- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
+- {{< fa university >}} &nbsp; {{< var instructor.office >}}
+- {{< fa envelope >}} &nbsp; [{{< var instructor.email >}}](mailto:{{< var instructor.email >}})
+- {{< fa university >}} &nbsp; Office hours: [M 12:30-2:20 pm, W 3:30-5:30 pm, and (via Zoom) Th 1:00-3:00 pm]({{< var instructor.appointment_url >}}) and by appointment
+:::
+
+:::
+
+
+
+# Syllabus
+
+You can download a PDF version of the syllabus with the weekly schedule here.
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} Syllabus </span></p>](POLS100_syllabus.pdf)
+
+
+
+:::
+
+
+## Course Overview
+
+This course will provide an overview of the major topics in the study of American politics. The course is arranged in three parts. In the first part of the course, we will talk about the foundations of the American system (the Constitution, federalism, civil rights and liberties). In Part II, we will cover the major institutions of American government (Congress, the presidency, the bureaucracy, and the judiciary). In Part III, we will examine the role of public opinion, political parties, elections, and the media in American politics. In addition to these topics, the course will also introduce you to the methods political scientists use.
+
+
+## Learning Outcomes
+
+- Develop an understanding of the foundations, major institutions, and principal actors in American politics
+- Think critically about the ways in which Americans interact with their political institutions
+- Apply the theories and concepts from American politics to current events
+
+
+## Work and Assessment
+
+### Required Texts:
+
+- Kernell, Samuel, Gary C. Jacobson, Thad Kousser, Lynn Vavreck, and Timothy R. Johnson. 2025. *The Logic of American Politics, 12th Edition.* Thousand Oaks, California: CQ Press/SAGE.
+- Levitsky, Steven, and Daniel Ziblatt. 2023. *Tyranny of the Minority: Why American Democracy Reached the Breacking Point.* New York: Crown.
+
+
+### Course Expectations
+
+Students are expected to attend class and participate during class discussions. This course has both a lecture and a discussion component. The lectures will incorporate the readings assigned for that day/week. I expected you will have completed all readings prior to class and will come prepared with comments and questions. Unless noted otherwise, all readings will be made available on Canvas.
+
+
+### Course Workload
+
+As a course with a course count of one, you are expected to spend 8-10 hours of work each week (not including our two 75-minute weekly course meetings).
+
+
+### Assignments and grades
+
+Final course grades will be assigned as follows:
+
+```{r grades, include=FALSE}
+grading <- tribble(
+  ~Grade, ~Range, ~Grade1, ~Range1,
+  "A",  "94–100%", "C",  "74–76%",
+  "A−", "90–93%", "C−", "70–73%",
+  "B+", "87–89%", "D+", "67–69%",
+  "B",  "84–86%", "D",  "64–66%",
+  "B−", "80–83%", "D−", "60–63%",
+  "C+", "77–79%", "F",  "< 60%"
+)
+```
+
+<div class="centered-table">
+
+```{r show-grades-table, echo=FALSE, results="asis"}
+grading %>%
+  pandoc.table(justify = "lclc",
+               col.names = c("Grade", "Range", "Grade", "Range"))
+```
+
+<div>
+
+
+Final grades will be calculated based on the following components:
+
+**In-class Participation (10%)**: All students are expected to be active participants in class discussions. Our learning experience will be enhanced if you come prepared and ready to share your comments, insights, and/or questions from the material covered in the lectures and readings with the rest of the class.
+
+While attendance is a pre-requisite to participation, it is not all of it. If you attend every class but do not participate, expect to get only half of the points. It is up to you to increase this participation grade to get full points. You will earn participation points through in-class activities.
+
+To accommodate unforeseeable circumstances, you have two *unexcused* absences in the semester that will not affect your participation grade. Please let the instructor know about any excused absences you anticipate during the semester. (Absences due to extenuating circumstances will be considered separately. Please refer to the [College's Class Attendance Policy](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext-otp2) for the college-wide policy on absences and be in communication if a situation that will keep you from attending class for an extended period of time arises.)
+
+
+**Report of Campus Event (5%)**: There are some events on campus that touch on important topics relevant to our course. You are required to attend one of them and write a 1-2 page (double-spaced) reflection on the event. This report must briefly summarize the content of the event and then provide a reflection that connects the event to the topics of our course. Here are the three events that you can choose from:
+
+  1. Revolutionary America: Religion, Morality, and the Problem of Governance (Wednesday, September 16, at 4:30 pm in the Rehm Library)
+  2. Constitution Day lecture  (Thursday, September 17, at 4:30 pm, Room TBD)
+  3. The American Revolution and the Case for Redemption (Thursday, November 5, at 4:30 pm in the Rehm Library)
+    
+
+
+**Three Response Papers (15% each)**: Throughout the course, we will talk about the state of American democracy. After each of the major sections of the course (foundations, institutions, and the public) you will return to the question of whether American democracy is fragile or stable. In these short papers (about 3 double-space pages) you will discuss how the different foundations, institutions, or players in American politics contribute to the resilience or erosion of democracy in the United States.
+
+- Papers must be submitted via Canvas. Late submissions will be penalized with one point off for each 24-hour period after the due date.
+
+
+
+**Midterm and Final Exam (20% each)**: There will be a midterm and a final exam that students will complete on Canvas. These exams will assess your familiarity with the terms and theories in the American politics literature that we will have covered in class.
+
+
+
+## Communication Policy
+
+If you have questions about class in general or about a specific assignment, you can email me or come by my office. You can expect a response within 24 hours (unless you email me on Friday). Students are also more than welcome to attend office hours, as this is time set aside specifically for you. In addition, if my office door is open, feel free to stop by. Please note that I will not be "pre-grading" assignments, but I am happy to answer clarifying questions about them either via email or, preferably, during office hours.
+
+
+## Regrading Policy
+
+If a student wishes to appeal a grade, they must do so in writing within one week of receiving their graded assignment back. The student must indicate clearly what part of the assignment's grading they disagree with, making sure to respond to the instructor's comments in that section and making their case for why they should not have been deducted points. These requests should be done via email and the subject name should read "POLS 204 Regrading request - [Name of assignment]." 
+
+
+## Technology Policy
+
+To avoid any distractions, cellphones are prohibited in class and must remain in your pocket or backpack. While some in-class activities will require you to use your laptop, these must remain closed until it is indicated you can open them. You are allowed to take notes on a tablet so long as the device is lying flat on your desk. If you require an exception to this policy, please see me during the first week of class to discuss an alternative.
+
+
+
+
+## Academic Integrity and Generative AI Policy
+
+All education is a cooperative enterprise between faculty and students. This cooperation requires trust and mutual respect, which are only possible in an environment governed by the principles of academic integrity. As an institution devoted to teaching, learning, and intellectual inquiry, Holy Cross expects all members of the College community to abide by the highest standards of academic integrity. Any violation of academic integrity undermines the student-faculty relationship, thereby wounding the whole community. Students in this class are required to read the full text of the [College’s Academic Integrity Policy](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext) and to abide by its standards.
+
+Unless otherwise noted, you are expected to complete all coursework independently without the use of generative AI tools (e.g., ChatGPT, Claude, Gemini). Because this course emphasizes using writing as a tool for learning and a vehicle for developing a unique writerly voice, using AI tools runs counter to our goals for writing assignments. Because the assumption in this course is that all writing students submit is original to them, cases where students turn in AI-generated content will be considered cheating.
+
+
+
+
+## Course Accessibility and Academic Accommodations
+
+
+The College of the Holy Cross is committed ["to providing students with disabilities equal access to the educational opportunities and programs available at Holy Cross in accordance with the Americans with Disabilities Act of 1990 as amended, Section 504 of the Rehabilitation Act of 1973, and Massachusetts laws."](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext)
+
+Any student who feels the need for accommodation based on the impact of a disability should contact the [Office of Accessibility Services](https://www.holycross.edu/community/health-wellness/accessibility-accommodations) to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations.
+
+The office can be reached by calling 508-793-3693. If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to your instructors in a timely fashion. Instructors need at least 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations.
+
+
+
+## Wellbeing and Mental Health
+
+The wellbeing and mental health of students is important. If you are having trouble managing your coursework and are experiencing unusual amounts of stress, sadness, or anxiety, the College has resources you may find useful. Please reach out to [Student Wellness Education](https://www.holycross.edu/community/health-wellness/student-wellness-education) or the office of [Counseling and Psychological Services](https://www.holycross.edu/community/health-wellness/counseling-psychological-services).
+
+
+## Title IX
+
+If you have experienced any form of sexual harassment or violence, dating or domestic violence, or stalking, please talk to any faculty or staff member with whom you feel comfortable. Faculty and staff members want to support you and have been trained to help. They will also inform the Title IX office so that you learn about options available to you. If you do not want college administrators to know what you have experienced, you may speak to a chaplain or counseling services with complete confidentiality. They will not tell anyone what you share with them unless you give your express permission. You may contact the Title IX Office directly at <titleix@holycross.edu>.
+
+
+## Chosen Names and Personal Pronouns
+ 
+Everyone has the right to be addressed by the name and pronouns that correspond to their gender identity. Rosters do not list gender or pronouns, so you may indicate the pronouns you use so that I don't make assumptions based on your name and/or appearance/self-presentation. If you use a chosen name, please let me know. Chosen names and pronouns are to be respected at all times in the classroom. Mistakes in addressing one another may happen, so I encourage an environment of openness to correction and learning. I will not however, tolerate repeated comments which disrespect or antagonize students who have indicated pronouns or a chosen name.
+
+
+## Center for Writing and Writer's Workshop
+
+The Center for Writing offers one-on-one appointments with trained peer consultants trough their Writer's Workshop who can help you improve your communication skills. You are encouraged to use this resource when working on your class assignments to make your arguments more compelling, your sentences clearer, and persistent grammatical errors nonexistent. You can schedule an appointment at <https://holycross.mywconline.com/>.
+
+
+
+## Recording of Classes
+
+Please note that, consistent with applicable federal and state law, this course may be video/audio recorded as an accommodation *only* with permission from the Office of Accessibility Services. Students are not permitted to record the contents of this class under any other circumstances.
+
+
+
+## Syllabus Change Policy
+
+This syllabus is only a guide for the course and is subject to change with advanced notice.
+
+
+::: {.content-visible when-format="pdf"}
+  
+## Schedule
+
+{{< include content/01-week1.qmd >}}
+
+{{< include content/02-week2.qmd >}}
+
+{{< include content/03-week3.qmd >}}
+
+{{< include content/04-week4.qmd >}}
+
+{{< include content/05-week5.qmd >}}
+
+{{< include content/06-week6.qmd >}}
+
+{{< include content/07-week7.qmd >}}
+
+{{< include content/08-week8.qmd >}}
+
+{{< include content/09-week9.qmd >}}
+
+{{< include content/10-week10.qmd >}}
+
+{{< include content/11-week11.qmd >}}
+
+{{< include content/12-week12.qmd >}}
+
+{{< include content/13-week13.qmd >}}
+
+{{< include content/14-week14.qmd >}}
+
+{{< include content/15-week15.qmd >}}
+
+{{< include content/16-week16.qmd >}}
+
+:::
+
+{{< include index_title.qmd >}}
