@@ -28,7 +28,7 @@ title: "Week 6: Congress"
 
 ### Deadline
 
-[Response Paper 1 due](../assignment/paper1.qmd) due Friday, October 2, at 11:59pm on Canvas
+[Response Paper 1 due](../assignment/paper1.html) due Friday, October 2, at 11:59pm on Canvas
 
 :::
 

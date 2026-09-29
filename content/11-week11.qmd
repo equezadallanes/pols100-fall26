@@ -27,6 +27,6 @@ title: "Week 11: Political Parties"
 
 ### Deadline
 
-[Response Paper 2 due](../assignment/paper2.qmd) due Friday, November 6, at 11:59pm on Canvas
+[Response Paper 2 due](../assignment/paper2.html) due Friday, November 6, at 11:59pm on Canvas
 
 :::
