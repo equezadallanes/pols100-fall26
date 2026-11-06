@@ -23,6 +23,11 @@ title: "Week 11: Political Parties"
 - Election debrief (readings TBA)
 
 
+#### For in-class activity
+
+- Pew. 2024. "The changing demographic composition of voters and party coalitions," April 9. [{{< fa link >}}](https://www.pewresearch.org/politics/2024/04/09/the-changing-demographic-composition-of-voters-and-party-coalitions/)
+
+
 :::{.callout-important}
 
 ### Deadline
