@@ -18,6 +18,10 @@ title: "Week 12: Public Opinion, Elections, and Campaigns"
 - (skim:) Dynes, Adam M., and John B. Holbein. 2020. "Noisy Retrospection: The Effect of Party Control on Policy Outcomes." *American Political Science Review* 114(1): 237-257. {{< fa brands dropbox title="Available on Dropbox folder" >}}
 
 
+#### In-class
+
+- [Pew Civics Quiz](https://www.pewresearch.org/politics/quiz/what-do-you-know-about-the-u-s-government/)
+
 
 ### Friday, November 13
 
